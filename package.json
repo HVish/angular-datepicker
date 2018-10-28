@@ -1,5 +1,5 @@
 {
-  "name": "angular-datepicker",
+  "name": "angularx-date-picker",
   "version": "0.0.0",
   "description": "A date-picker and date-range-picker module for angular",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "angular",
     "date-picker",
     "date-range-picker"
   ],
