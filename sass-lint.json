@@ -1,0 +1,28 @@
+{
+  "files": {
+    "include": "src/**/*.s+(a|c)ss"
+  },
+  "rules": {
+    "indentation": [
+      2
+    ],
+    "quotes": [
+      1,
+      {
+        "style": "double"
+      }
+    ],
+    "leading-zero": [
+      1,
+      {
+        "include": true
+      }
+    ],
+    "class-name-format": [
+      2,
+      {
+        "convention": "strictbem"
+      }
+    ]
+  }
+}
